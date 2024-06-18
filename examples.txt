@@ -1,6 +1,6 @@
 Running the CloudSim examples
 -----------------------------
-hello world
+hello world ham
 To run the CloudSim examples you need to do the following steps.
 
 In Windows:
